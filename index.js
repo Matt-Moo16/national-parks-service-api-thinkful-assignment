@@ -1,4 +1,5 @@
-const apiKey = '7FfoaYoqRhXCB41Ul4yabwixoO7rzJBOkHEevnsl';
+'use strict';
+const apiKey = /* Your API here */;
 const baseUrl = 'https://developer.nps.gov/api/v1/parks';
 
 function generateUrl(states, limit) {
